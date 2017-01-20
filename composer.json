@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Sands\\Asasi\\Http" : "src/"
+            "Sands\\Asasi\\Http\\" : "src/"
         }
     },
     "require": {
